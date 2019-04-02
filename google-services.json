@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "1073441321592",
+    "firebase_url": "https://tomatoprot.firebaseio.com",
+    "project_id": "tomatoprot",
+    "storage_bucket": "tomatoprot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073441321592:android:57b56a5a7f1632cd",
+        "android_client_info": {
+          "package_name": "com.AsperGame.TomatoProt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1Uxc6H88S4TvqqvArwmKVLl7IM4RxZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073441321592-uekqks645qo9v185uveb16q3qlufapjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9131012516788379~2114718523"
+    }
+  ],
+  "configuration_version": "1"
+}
